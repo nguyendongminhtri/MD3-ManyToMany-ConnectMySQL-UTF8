@@ -11,8 +11,8 @@ public class ConnectionJDBC {
     private ConnectionJDBC() {
     }
 
-//    public static final String URL = "jdbc:mysql://localhost:3306/book_manager?characterEncoding=UTF-8";
-    public static final String URL = "mysql://b7132afa053dbf:fb387bec@eu-cdbr-west-01.cleardb.com/heroku_2302b9c80aec960?reconnect=true";
+    public static final String URL = "jdbc:mysql://localhost:3306/book_manager?characterEncoding=UTF-8";
+//    public static final String URL = "mysql://b7132afa053dbf:fb387bec@eu-cdbr-west-01.cleardb.com/heroku_2302b9c80aec960?reconnect=true";
     public static final String USER = "root";
     public static final String PASSWORD = "Minhtri29092014";
 
